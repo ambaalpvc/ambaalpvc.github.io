@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["specialise in Plumbing Needs.", "trader and supplier of Water Tanks.", "best in selling Sanitary Wares.", "offering best ranges of bath fittings."],
+      strings: ["specialised in Plumbing Needs.", "trader and supplier of Water Tanks.", "best in selling Sanitary Wares.", "offering best ranges of bath fittings."],
       typeSpeed: 100,
       loop: true,
     });
